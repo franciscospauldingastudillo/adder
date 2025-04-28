@@ -20,4 +20,7 @@ pip install .
   - pyproject.toml           # Tells pip how to build and install the package
   - README.md                # (Optional) Describes your project
 
+## Welcome message
+
+Hi everyone. Happy you're here.
 
